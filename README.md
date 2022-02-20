@@ -5,7 +5,7 @@ Steve, a recent finance major graduate has been commissioned by his parents (his
 
 
 ### Results
-![alt text](
+![alt text](VBA_Challenge_2017.png)
 The screenshot above displays the returns for green energy stocks which Steve wanted to analyze. At 129.5%, DQ stock is clearly a front runner for maximizing one’s returns.
 
 
