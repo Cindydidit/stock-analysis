@@ -9,7 +9,7 @@ Steve, a recent finance major graduate has been commissioned by his parents (his
 The screenshot above displays the returns for green energy stocks which Steve wanted to analyze. At 129.5%, DQ stock is clearly a front runner for maximizing one’s returns.
 
 
-![alt text](
+![alt text](VBA_Challenge_2018.png)
 However, this screenshot (directly above); gives us a more thorough picture of these various stocks’ performances for the year 2018. Careful analysis would lead one to invest funds in ENPH stock with an 81.9% return, as opposed to DQ stock which suffered a 62.6% loss. One can also determine based on these two analyses, that RUN stock which showed a 5.5% return in 2017 and an 84% return in 2018 is a conservatively safe stock to invest in.
 
 
